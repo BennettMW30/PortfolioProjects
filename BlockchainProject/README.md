@@ -1,0 +1,1 @@
+In this project I created a blockchain that would hold data for students enrolling in classes. I ran a node.js server that would allow me to add pending enrollments that would then be added to the next block when one is mined. That new block would then be added to the end of the chain.
